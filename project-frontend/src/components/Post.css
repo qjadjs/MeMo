@@ -1,0 +1,13 @@
+.PostCard {
+    margin-top: 20px;
+    display: inline-grid;
+    margin-right: 30px;
+    justify-content: center;
+    min-height: 250px;
+    
+    
+}
+.CardHeader {
+    min-width: 330px;
+    max-width: 345px;
+}

@@ -1,0 +1,60 @@
+.shareProfile {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 10px;
+    object-fit: cover;
+}
+.shareHr {
+    margin-top: 10px;
+    width: 100%;
+    
+}
+.shareWrapper {
+    box-shadow: 3px 3px 13px -10px;
+    padding: 25px;
+    width: 40%;
+    justify-content: center;
+    margin-top: 30px;
+    
+}
+.shareTop {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: auto;
+}
+.shareOption {
+    cursor: pointer;
+    
+    display: flex;
+    width: 100%;
+}
+.share {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.shareInput {
+    width: 95%;
+    
+    outline: none;
+    min-height: 80px;
+    height: auto;
+    margin-bottom: 10px;
+    white-space: normal;
+    line-height: 1.25;
+    border: 1px solid #ced4da;
+    padding : 1rem .75rem;
+    margin-top: 10px;
+}
+.shareInputtitle {
+    width: 80%;
+    border: none;
+    margin-right: 5px;
+}
